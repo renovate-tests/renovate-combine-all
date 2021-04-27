@@ -1,0 +1,11 @@
+{
+    "packageRules": [
+        {
+            "groupName": "all",
+            "packagePatterns": ["*"],
+            "separateMinorPatch": false,
+            "separateMajorMinor": false,
+            "separateMultipleMajor": false
+        }
+    ]
+}

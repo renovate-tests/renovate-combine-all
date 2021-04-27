@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "license": "UNLICENSED",
+    "author": "LMI",
+    "devDependencies": {
+        "lodash": "4.17.20",
+        "sinon": "9.0.0"
+    }
+}
